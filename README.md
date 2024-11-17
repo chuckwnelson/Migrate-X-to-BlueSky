@@ -8,6 +8,12 @@ It will generate a log file that shows if it was able to follow or not.
 
 WARNING: This is scraping your own profile. Definitely against the TOS of x.com. *Use at your own risk.*
 
+### Stack
+- Node.js
+- Typescript
+- Selenium + Chrome Webdriver
+- BlueSky API
+
 # Getting Started
 
 Prereqs: This uses Selenium webdriver, and you will need to have a browser installed based on your system. This script uses chrome by default. More information here: https://www.selenium.dev/selenium/docs/api/javascript/
