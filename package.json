@@ -1,7 +1,8 @@
 {
   "name": "xtobluesky",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get your follow list on Twitter/X.com then search for them on BlueSky",
+  "keywords": ["x.com", "twitter", "bluesky", "migration"],
   "type": "module",
   "main": "index.ts",
   "scripts": {
@@ -10,7 +11,8 @@
     "build": "npx tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Chuck W. Nelson",
+  "homepage": "https://www.chuckwnelson.com",
   "license": "ISC",
   "dependencies": {
     "@types/selenium-webdriver": "^4.1.27",
