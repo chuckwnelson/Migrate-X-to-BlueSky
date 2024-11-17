@@ -1,3 +1,5 @@
+*** Work in Progress. NOT ready for production***
+
 # Migrate from X.com to BlueSky
 
 This is a script that will make a list of all profiles you follow on x.com then try to add them on BlueSky.
