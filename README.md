@@ -30,11 +30,11 @@ Comments, feature requests, or pull requests, I'll do my best.
 
 Prereqs: This uses Selenium webdriver, and you will need to have a browser installed based on your system. This script uses chrome by default. More information here: https://www.selenium.dev/selenium/docs/api/javascript/
 
-`npm ci`
+```npm ci```
 
 Using `npm ci` over `npm install` has its advantages. [More here](https://stackoverflow.com/questions/48524417/should-the-package-lock-json-file-be-added-to-gitignore).
 
-`npm run build`
+```npm run build```
 
 ## Getting Your X.com Follows
 
