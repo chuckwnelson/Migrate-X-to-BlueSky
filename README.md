@@ -24,7 +24,7 @@ Comments, feature requests, or pull requests, I'll do my best.
 ### Feature Roadmap
 1. ✅ MVP, Get list of Twitter/X.com Profiles that you follow.
 2. ◻️ Follow that list on BlueSky
-3. ◻️ Refine script to handle errors and better loggins
+3. ◻️ Refine script to handle errors and better logging (did we successfull follow, was there an error, etc)
 
 # Getting Started
 
