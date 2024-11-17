@@ -14,6 +14,8 @@ Prereqs: This uses Selenium webdriver, and you will need to have a browser insta
 
 `npm install`
 
+`npm run build`
+
 ## Getting Your X.com Follows
 
 `npm start`

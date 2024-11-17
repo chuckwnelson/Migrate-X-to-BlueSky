@@ -7,6 +7,7 @@
   "scripts": {
     "start": "node ./dist/index.js",
     "dev": "npx tsc -w",
+    "build": "npx tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
