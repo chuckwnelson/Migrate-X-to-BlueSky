@@ -1,4 +1,4 @@
-*** Work in Progress. NOT ready for production***
+**Work in Progress. NOT ready for production**
 
 # Migrate from X.com to BlueSky
 
