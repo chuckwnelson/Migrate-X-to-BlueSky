@@ -11,7 +11,8 @@ It will generate a log file that shows if it was able to follow or not.
 WARNING: This is scraping your own profile. Definitely against the TOS of x.com. *Use at your own risk.*
 
 ### Feedback
-Follow me on BlueSky at https://bsky.app/profile/chuckwnelson.bsky.social
+Follow me on BlueSky at [@chuckwnelson](https://bsky.app/profile/chuckwnelson.bsky.social)
+
 Comments, feature requests, or pull requests, I'll do my best.
 
 ### Stack
